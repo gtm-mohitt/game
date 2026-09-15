@@ -1,0 +1,6 @@
+{
+  "name": "Cricket Predict",
+  "description": "Free-to-play cricket performance prediction game. Predict player performance points, track live match simulations, earn XP and climb the leaderboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,38 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Cricket Bat (angled) -->
+    <path
+        android:fillColor="#F59E0B"
+        android:pathData="M34,74 L62,46 L68,52 L40,80 Z" />
+    <path
+        android:fillColor="#D97706"
+        android:pathData="M38,78 L66,50 L68,52 L40,80 Z" />
+    <!-- Bat Handle -->
+    <path
+        android:fillColor="#F8FAFC"
+        android:pathData="M62,46 L73,35 L77,39 L66,50 Z" />
+    <path
+        android:fillColor="#E2E8F0"
+        android:pathData="M72,36 L75,33 L78,36 L75,39 Z" />
+    <!-- Cricket Ball (Red seam) -->
+    <path
+        android:fillColor="#EF4444"
+        android:pathData="M42,38 m-10,0 a10,10 0 1,1 20,0 a10,10 0 1,1 -20,0" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M34,32 C38,36 38,40 34,44"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2" />
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M50,32 C46,36 46,40 50,44"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.2" />
+    <!-- Prediction Spark / Target Star -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M74,62 L76.5,68.5 L83,71 L76.5,73.5 L74,80 L71.5,73.5 L65,71 L71.5,68.5 Z" />
+</vector>
